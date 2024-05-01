@@ -11,5 +11,13 @@
 ## >作業連結區
 [作業一](https://github.com/41171201H/Pl/blob/a0d9141d68062e2935ba6f446e64732d5a989f84/hw1.ipynb)
 [作業二](https://github.com/41171201H/Pl/blob/main/HW2.ipynb)
+作業三
+[程式碼](https://github.com/41171201H/Pl/blob/main/hw3.ipynb)
+/
+[JSON檔](https://github.com/41171201H/Pl/blob/main/hw3.json)
+/
+[CSV檔](https://github.com/41171201H/Pl/blob/main/hw3.csv)
+/
+[程式碼講解](123456)
 ## >專題連結區
 
